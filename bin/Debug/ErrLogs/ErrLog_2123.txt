@@ -1,0 +1,22 @@
+
+[18-Jun-2015 02:14:26 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:14:27 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:14:27 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:14:27 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:14:27 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:14:27 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :2123
+
+[18-Jun-2015 02:15:15 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:15:16 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:16 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:15:16 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:15:17 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:15:17 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:15:17 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:15:18 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:15:18 PM] Expense Type - 'POSTAGE.' Not found, Item Code not found
+[18-Jun-2015 02:15:18 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :2123

@@ -1,0 +1,55 @@
+
+[18-Jun-2015 02:18:11 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:11 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:11 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:18:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:14 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:14 PM] Expense Type - 'VOUCHERS' Not found, Item Code not found
+[18-Jun-2015 02:18:14 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:15 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:15 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:15 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5034
+
+[22-Jun-2015 01:34:15 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:02:06 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:06:17 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:31 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:10:41 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:22:46 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:23 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:41:07 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[22-Jun-2015 02:46:47 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 12:30:21 AM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 12:31:19 AM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 02:37:42 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 02:49:25 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 02:58:54 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 04:00:47 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:35 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 04:14:35 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 04:33:39 PM] Purchase Order creation sucssfully : PO Number from file is :5034
+
+[29-Jun-2015 04:37:54 PM] Purchase Order creation sucssfully : PO Number from file is :5034

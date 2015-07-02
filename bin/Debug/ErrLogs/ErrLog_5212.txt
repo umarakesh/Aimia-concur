@@ -1,0 +1,56 @@
+
+[18-Jun-2015 02:15:00 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:00 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:01 PM] Expense Type - 'MEALS AND SUSTENANCE' Not found, Item Code not found
+[18-Jun-2015 02:15:01 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:01 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:02 PM] Expense Type - 'TOLLS/BUSES/TRAINS' Not found, Item Code not found
+[18-Jun-2015 02:15:02 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:02 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5212
+
+[18-Jun-2015 02:16:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:07 PM] Expense Type - 'MEALS AND SUSTENANCE' Not found, Item Code not found
+[18-Jun-2015 02:16:07 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:07 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:08 PM] Expense Type - 'TOLLS/BUSES/TRAINS' Not found, Item Code not found
+[18-Jun-2015 02:16:08 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:08 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5212
+
+[22-Jun-2015 01:34:33 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:02:24 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:06:17 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:49 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:10:59 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:23:02 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:52 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:41:36 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[22-Jun-2015 02:47:16 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 12:30:48 AM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 12:31:45 AM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 02:38:00 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 02:49:44 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 02:59:13 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 04:00:48 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:53 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 04:14:54 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 04:33:57 PM] Purchase Order creation sucssfully : PO Number from file is :5212
+
+[29-Jun-2015 04:38:12 PM] Purchase Order creation sucssfully : PO Number from file is :5212

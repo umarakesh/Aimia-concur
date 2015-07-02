@@ -1,0 +1,19 @@
+Purchase Order creation process started***********************************************************************
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :1217
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :2123
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 3] PO Number from file is :2994
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 4] PO Number from file is :4145
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 3] PO Number from file is :4177
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :4293
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5025
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5068
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5079
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 2] PO Number from file is :5109
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 2] PO Number from file is :5109
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 2] PO Number from file is :5139
+Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5212
+Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :64494
+Purchase Order creation failed. Error : 10000100 - Posting period locked; specify an alternative date PO Number from file is :7020
+Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :7037
+Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :7038
+Purchase Order creation process is completed***********************************************************************

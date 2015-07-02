@@ -1,0 +1,46 @@
+
+[18-Jun-2015 02:18:02 PM] Expense Type - 'MISC EXPENSES' Not found, Item Code not found
+[18-Jun-2015 02:18:05 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:06 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:18:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:07 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:07 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:18:07 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :2586
+
+[22-Jun-2015 01:34:03 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:01:54 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:06:16 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:12 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:10:30 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:22:36 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:04 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:40:49 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[22-Jun-2015 02:46:30 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 12:30:04 AM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 12:31:01 AM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 02:37:30 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 02:49:13 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 02:58:42 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 04:00:40 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:23 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 04:14:23 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 04:33:27 PM] Purchase Order creation sucssfully : PO Number from file is :2586
+
+[29-Jun-2015 04:37:43 PM] Purchase Order creation sucssfully : PO Number from file is :2586

@@ -1,0 +1,4 @@
+
+[18-Jun-2015 02:18:01 PM] Expense Type - 'TAXIS' Not found, Item Code not found, Department not found, Partner not found, Management Unit not found, Product not found
+[18-Jun-2015 02:18:01 PM] Expense Type - 'TAXIS' Not found, Item Code not found, Department not found, Partner not found, Management Unit not found, Product not found
+[18-Jun-2015 02:18:02 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :2186

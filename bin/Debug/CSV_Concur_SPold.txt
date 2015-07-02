@@ -1,0 +1,349 @@
+Alter procedure [dbo].[BOS_CSVREAD_ConCur] @FileName as varchar(Max), @DocType as varchar(Max)
+as
+begin
+	begin try
+	create table ConcurData
+	(	
+		Col1 varchar(max),
+		Col2 varchar(max),
+		Col3 varchar(max),
+		Col4 varchar(max),
+		Col5 varchar(max),
+		Col6 varchar(max),
+		Col7 varchar(max),
+		Col8 varchar(max),
+		Col9 varchar(max),
+		Col10 varchar(max),
+		Col11 varchar(max),
+		Col12 varchar(max),
+		Col13 varchar(max),
+		Col14 varchar(max),
+		Col15 varchar(max),
+		Col16 varchar(max),
+		Col17 varchar(max),
+		Col18 varchar(max),
+		Col19 varchar(max),
+		Col20 varchar(max),
+		Col21 varchar(max),
+		Col22 varchar(max),
+		Col23 varchar(max),
+		Col24 varchar(max),
+		Col25 varchar(max),
+		Col26 varchar(max),
+		Col27 varchar(max),
+		Col28 varchar(max),
+		Col29 varchar(max),
+		Col30 varchar(max),
+		Col31 varchar(max),
+		Col32 varchar(max),
+		Col33 varchar(max),
+		Col34 varchar(max),
+		Col35 varchar(max),
+		Col36 varchar(max),
+		Col37 varchar(max),
+		Col38 varchar(max),
+		Col39 varchar(max),
+		Col40 varchar(max),
+		Col41 varchar(max),
+		Col42 varchar(max),
+		Col43 varchar(max),
+		Col44 varchar(max),
+		Col45 varchar(max),
+		Col46 varchar(max),
+		Col47 varchar(max),
+		Col48 varchar(max),
+		Col49 varchar(max),
+		Col50 varchar(max),
+		Col51 varchar(max),
+		Col52 varchar(max),
+		Col53 varchar(max),
+		Col54 varchar(max),
+		Col55 varchar(max),
+		Col56 varchar(max),
+		Col57 varchar(max),
+		Col58 varchar(max),
+		Col59 varchar(max),
+		Col60 varchar(max),
+		Col61 varchar(max),
+		Col62 varchar(max),
+		Col63 varchar(max),
+		Col64 varchar(max),
+		Col65 varchar(max),
+		Col66 varchar(max),
+		Col67 varchar(max),
+		Col68 varchar(max),
+		Col69 varchar(max),
+		Col70 varchar(max),
+		Col71 varchar(max),
+		Col72 varchar(max),
+		Col73 varchar(max),
+		Col74 varchar(max),
+		Col75 varchar(max),
+		Col76 varchar(max),
+		Col77 varchar(max),
+		Col78 varchar(max),
+		Col79 varchar(max),
+		Col80 varchar(max),
+		Col81 varchar(max),
+		Col82 varchar(max),
+		Col83 varchar(max),
+		Col84 varchar(max),
+		Col85 varchar(max),
+		Col86 varchar(max),
+		Col87 varchar(max),
+		Col88 varchar(max),
+		Col89 varchar(max),
+		Col90 varchar(max),
+		Col91 varchar(max),
+		Col92 varchar(max),
+		Col93 varchar(max),
+		Col94 varchar(max),
+		Col95 varchar(max),
+		Col96 varchar(max),
+		Col97 varchar(max),
+		Col98 varchar(max),
+		Col99 varchar(max),
+		Col100 varchar(max),
+		Col101 varchar(max),
+		Col102 varchar(max),
+		Col103 varchar(max),
+		Col104 varchar(max),
+		Col105 varchar(max),
+		Col106 varchar(max),
+		Col107 varchar(max),
+		Col108 varchar(max),
+		Col109 varchar(max),
+		Col110 varchar(max),
+		Col111 varchar(max),
+		Col112 varchar(max),
+		Col113 varchar(max),
+		Col114 varchar(max),
+		Col115 varchar(max),
+		Col116 varchar(max),
+		Col117 varchar(max),
+		Col118 varchar(max),
+		Col119 varchar(max),
+		Col120 varchar(max),
+		Col121 varchar(max),
+		Col122 varchar(max),
+		Col123 varchar(max),
+		Col124 varchar(max),
+		Col125 varchar(max),
+		Col126 varchar(max),
+		Col127 varchar(max),
+		Col128 varchar(max),
+		Col129 varchar(max),
+		Col130 varchar(max),
+		Col131 varchar(max),
+		Col132 varchar(max),
+		Col133 varchar(max),
+		Col134 varchar(max),
+		Col135 varchar(max),
+		Col136 varchar(max),
+		Col137 varchar(max),
+		Col138 varchar(max),
+		Col139 varchar(max),
+		Col140 varchar(max),
+		Col141 varchar(max),
+		Col142 varchar(max),
+		Col143 varchar(max),
+		Col144 varchar(max),
+		Col145 varchar(max),
+		Col146 varchar(max),
+		Col147 varchar(max),
+		Col148 varchar(max),
+		Col149 varchar(max),
+		Col150 varchar(max),
+		Col151 varchar(max),
+		Col152 varchar(max),
+		Col153 varchar(max),
+		Col154 varchar(max),
+		Col155 varchar(max),
+		Col156 varchar(max),
+		Col157 varchar(max),
+		Col158 varchar(max),
+		Col159 varchar(max),
+		Col160 varchar(max),
+		Col161 varchar(max),
+		Col162 varchar(max),
+		Col163 varchar(max),
+		Col164 varchar(max),
+		Col165 varchar(max),
+		Col166 varchar(max),
+		Col167 varchar(max),
+		Col168 varchar(max),
+		Col169 varchar(max),
+		Col170 varchar(max),
+		Col171 varchar(max),
+		Col172 varchar(max),
+		Col173 varchar(max),
+		Col174 varchar(max),
+		Col175 varchar(max),
+		Col176 varchar(max),
+		Col177 varchar(max),
+		Col178 varchar(max),
+		Col179 varchar(max),
+		Col180 varchar(max),
+		Col181 varchar(max),
+		Col182 varchar(max),
+		Col183 varchar(max),
+		Col184 varchar(max),
+		Col185 varchar(max),
+		Col186 varchar(max),
+		Col187 varchar(max),
+		Col188 varchar(max),
+		Col189 varchar(max),
+		Col190 varchar(max),
+		Col191 varchar(max),
+		Col192 varchar(max),
+		Col193 varchar(max),
+		Col194 varchar(max),
+		Col195 varchar(max),
+		Col196 varchar(max),
+		Col197 varchar(max),
+		Col198 varchar(max),
+		Col199 varchar(max),
+		Col200 varchar(max),
+		Col201 varchar(max),
+		Col202 varchar(max),
+		Col203 varchar(max),
+		Col204 varchar(max),
+		Col205 varchar(max),
+		Col206 varchar(max),
+		Col207 varchar(max),
+		Col208 varchar(max),
+		Col209 varchar(max),
+		Col210 varchar(max),
+		Col211 varchar(max),
+		Col212 varchar(max),
+		Col213 varchar(max),
+		Col214 varchar(max),
+		Col215 varchar(max),
+		Col216 varchar(max),
+		Col217 varchar(max),
+		Col218 varchar(max),
+		Col219 varchar(max),
+		Col220 varchar(max),
+		Col221 varchar(max),
+		Col222 varchar(max),
+		Col223 varchar(max),
+		Col224 varchar(max),
+		Col225 varchar(max),
+		Col226 varchar(max),
+		Col227 varchar(max),
+		Col228 varchar(max),
+		Col229 varchar(max),
+		Col230 varchar(max),
+		Col231 varchar(max),
+		Col232 varchar(max),
+		Col233 varchar(max),
+		Col234 varchar(max),
+		Col235 varchar(max),
+		Col236 varchar(max),
+		Col237 varchar(max),
+		Col238 varchar(max),
+		Col239 varchar(max)
+	)
+		--ItemDesc varchar(max),
+		--LineType varchar(max),
+		--TaxType varchar(max),
+		--TaxCode varchar(max),
+		--Quantity integer,
+		--UnitPrice decimal(10, 2),
+		--TaxAmount decimal(10, 2),
+		--NetAmount decimal(10, 2),
+		--ItemCode varchar(max),
+		--ProjectCode varchar(max),
+		--Jobcode varchar(max), 
+		--activity varchar(max)
+		--)
+
+	declare @sql as varchar(max)
+	set @sql = 'Bulk insert ConcurData 
+    from ''' + @FileName + ''' with
+	(
+	FIRSTROW = 1,
+	fieldterminator = ''|'',
+	rowterminator = ''\n'',
+	keepnulls
+	)'
+	--(
+	--FIRSTROW = 1,
+	--fieldterminator = ''|'',
+	--rowterminator = ''\n'',
+	--keepnulls,
+	--lastrow = ' + 288 + '
+	--)'
+	--print @sql
+	exec (@sql)
+
+	
+	--select * from ConcurData
+	
+	If @DocType = 'H' 
+	Begin
+		Select 
+			Col5 [DocNum], 
+			Replace(Col24, '-', '') [DocDate],
+			Replace(Col25, '-', '') [DocDueDate],
+			'AMEX0' as CardCode, isnull(Col7,'') + ' ' + isnull(Col8,'') + ' ' + isnull(Col27,'') + ' ' + 'CONCUR IMPORT' [NumAtCard],
+			'Yes' as U_Concur
+		from ConcurData
+		Where Col1 = 'DETAIL'
+		Group by Col5, Col24, Col25, Col7, Col8, Col27
+		order by CAST(Col5 as Int) Asc
+	End 
+
+	If @DocType = 'D' 
+	Begin
+		Select 
+			Col5 [DocNum], 
+			'ZZ' + left([@BOS_CCACT].U_Account,6) [ItemCode],
+			isnull(Col63,'') + ' ' + isnull(Col69,'') + ' (' + isnull(Col7,'') + ' ' + isnull(Col6,'') +')' [ItemDescript],
+			1 [Quantity], 
+			ISNULL(Col153,0) [PriceAfVAT],
+			left([@BOS_CCACT].U_Account,6) [AcctCode],
+			[@BOS_CCDIM].U_Department as OcrCode,
+			[@BOS_CCDIM].U_Partner as OcrCode2,
+			[@BOS_CCDIM].U_MngUnit as OcrCode3,
+			[@BOS_CCDIM].U_Product as OcrCode4,
+			isnull(Col238, 'G14') as VatGroup,
+			case when left([@BOS_CCACT].U_Account,6) is null then 'No GL Account' else '' end as Error1,
+			case when (select Itemcode from OITM where Itemcode = 'ZZ' + left([@BOS_CCACT].U_Account,6)) is null then 'Item Code not found' else '' end as Error2,
+			case when (select PrcCode from OPRC where DimCode = 1 and PrcCode = [@BOS_CCDIM].U_Department) is null then 'Department not found' else '' end as Error3,
+			case when (select PrcCode from OPRC where DimCode = 2 and PrcCode = [@BOS_CCDIM].U_Partner) is null then 'Partner not found' else '' end as Error4,
+			case when (select PrcCode from OPRC where DimCode = 3 and PrcCode = [@BOS_CCDIM].U_MngUnit) is null then 'ManagementUnit not found' else '' end as Error5,
+			case when (select PrcCode from OPRC where DimCode = 4 and PrcCode = [@BOS_CCDIM].U_Product) is null then 'Product not found' else '' end as Error6
+		from ConcurData
+		left outer join [@BOS_CCACT] on ConcurData.Col63 = [@BOS_CCACT].U_Category
+		left outer join [@BOS_CCDIM] on isnull(ConcurData.Col7,'') + ' ' + isnull(ConcurData.Col6,'') = [@BOS_CCDIM].U_Employee
+		Where Col1 = 'DETAIL'
+		order by CAST(Col5 as Int) Asc
+	End 
+	drop table ConcurData
+	end try
+
+	begin catch
+		if @@TRANCOUNT > 0
+			declare @ErrorNumber int = ERROR_NUMBER();
+			declare @ErrorLine int = ERROR_LINE();
+			declare @ErrorMessage nvarchar(4000) = ERROR_MESSAGE();
+			declare @ErrorSeverity int = ERROR_SEVERITY();
+			declare @ErrorState int = ERROR_STATE();
+
+			print 'Actual error number: ' + CAST(@ErrorNumber as varchar(10));
+			print 'Actual line number: ' + CAST(@ErrorLine as varchar(10));
+
+			--RAISERROR(@ErrorMessage, @ErrorSeverity, @ErrorState);
+			--select *,'Incomplete File' as Error from csvtest 
+		select @ErrorMessage as Error
+
+		drop table ConcurData
+	end catch
+end
+
+
+
+
+
+GO

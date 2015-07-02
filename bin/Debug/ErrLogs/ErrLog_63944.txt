@@ -1,0 +1,5 @@
+
+[18-Jun-2015 02:18:17 PM] Expense Type - 'IT SOFTWARE CONSUMABLES' Not found, Item Code not found
+[18-Jun-2015 02:18:17 PM] Expense Type - 'IT HARDWARE CONSUMABLES' Not found, Item Code not found
+[18-Jun-2015 02:18:17 PM] Expense Type - 'PARKING' Not found, Item Code not found
+[18-Jun-2015 02:18:18 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :63944

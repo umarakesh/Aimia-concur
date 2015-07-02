@@ -1,0 +1,84 @@
+
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:41 PM] Expense Type - 'PARKING' Not found, Item Code not found
+[18-Jun-2015 02:14:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:42 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:44 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :4293
+
+[18-Jun-2015 02:15:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:41 PM] Expense Type - 'PARKING' Not found, Item Code not found
+[18-Jun-2015 02:15:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:41 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:42 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:42 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:42 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:42 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:43 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:43 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:44 PM] Expense Type - 'ACCOMMODATION' Not found, Item Code not found
+[18-Jun-2015 02:15:45 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:45 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:45 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:45 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :4293
+
+[22-Jun-2015 01:34:12 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:02:03 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:06:16 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:28 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:10:38 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:22:43 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:18 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:41:03 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[22-Jun-2015 02:46:42 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 12:30:17 AM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 12:31:14 AM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 02:37:39 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 02:49:22 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 02:58:51 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 04:00:42 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:32 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 04:14:32 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 04:33:36 PM] Purchase Order creation sucssfully : PO Number from file is :4293
+
+[29-Jun-2015 04:37:51 PM] Purchase Order creation sucssfully : PO Number from file is :4293

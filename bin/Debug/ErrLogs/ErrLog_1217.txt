@@ -1,0 +1,28 @@
+
+[18-Jun-2015 02:14:23 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:24 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:14:25 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:25 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:14:25 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:14:25 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:14:26 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :1217
+
+[18-Jun-2015 02:15:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:12 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:12 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:12 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:13 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:15:14 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:14 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:15:14 PM] Expense Type - 'CLIENT & STAFF PARTIES' Not found, Item Code not found
+[18-Jun-2015 02:15:15 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:15 PM] Expense Type - 'ENTERTAINMENT' Not found, Item Code not found
+[18-Jun-2015 02:15:15 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :1217

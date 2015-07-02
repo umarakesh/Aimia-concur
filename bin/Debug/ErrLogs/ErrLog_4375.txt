@@ -1,0 +1,38 @@
+
+[22-Jun-2015 01:34:13 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:02:05 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:06:17 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:30 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:10:40 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:22:45 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:21 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:41:06 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[22-Jun-2015 02:46:45 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 12:30:19 AM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 12:31:17 AM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 02:37:41 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 02:49:24 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 02:58:53 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 04:00:47 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:33 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 04:14:34 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 04:33:38 PM] Purchase Order creation sucssfully : PO Number from file is :4375
+
+[29-Jun-2015 04:37:53 PM] Purchase Order creation sucssfully : PO Number from file is :4375

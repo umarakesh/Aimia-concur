@@ -1,0 +1,86 @@
+Purchase Order creation process started***********************************************************************
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Purchase Order creation process is completed***********************************************************************
+Purchase Order creation process started***********************************************************************
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :64494
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'DimCode'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'PrcCode'.
+3). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+Purchase Order creation process is completed***********************************************************************

@@ -1,0 +1,21 @@
+Purchase Order creation process started***********************************************************************
+Purchase Order creation failed. Error : Invalid BP code  [OPOR.CardCode] , 'AMEX0' PO Number from file is :135647
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@BOS_CCACT'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+
+Purchase Order creation process is completed***********************************************************************

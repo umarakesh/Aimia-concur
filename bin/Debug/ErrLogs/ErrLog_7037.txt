@@ -1,0 +1,56 @@
+
+[18-Jun-2015 02:15:04 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:04 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:05 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:05 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:05 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:06 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:07 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:07 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :7037
+
+[18-Jun-2015 02:16:10 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:10 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:11 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:11 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:11 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:12 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:13 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:16:13 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :7037
+
+[22-Jun-2015 01:34:41 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[22-Jun-2015 02:06:17 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:23:08 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:25:09 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[22-Jun-2015 02:41:53 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[22-Jun-2015 02:47:31 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 12:30:59 AM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 12:31:57 AM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 02:38:08 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 02:49:53 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 02:59:21 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 04:00:48 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:02:00 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 04:15:01 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 04:34:05 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037
+
+[29-Jun-2015 04:38:20 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7037

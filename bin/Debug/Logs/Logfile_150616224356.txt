@@ -1,0 +1,13 @@
+Purchase Order creation process started***********************************************************************
+Purchase Order creation sucssfully : PO Number from file is :2123
+Purchase Order creation sucssfully : PO Number from file is :2669
+Purchase Order creation sucssfully : PO Number from file is :2994
+Purchase Order creation sucssfully : PO Number from file is :4145
+Purchase Order creation sucssfully : PO Number from file is :4177
+Purchase Order creation sucssfully : PO Number from file is :5079
+Purchase Order creation sucssfully : PO Number from file is :5109
+Purchase Order creation sucssfully : PO Number from file is :5139
+Purchase Order creation sucssfully : PO Number from file is :5211
+Purchase Order creation sucssfully : PO Number from file is :5219
+Purchase Order creation sucssfully : PO Number from file is :7022
+Purchase Order creation process is completed***********************************************************************

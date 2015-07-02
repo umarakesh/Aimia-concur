@@ -1,0 +1,60 @@
+
+[18-Jun-2015 02:14:39 PM] Expense Type - 'MISC EXPENSES' Not found, Item Code not found
+[18-Jun-2015 02:14:39 PM] Expense Type - 'MISC EXPENSES' Not found, Item Code not found
+[18-Jun-2015 02:14:39 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:40 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :4177
+
+[18-Jun-2015 02:15:37 PM] Expense Type - 'MISC EXPENSES' Not found, Item Code not found
+[18-Jun-2015 02:15:37 PM] Expense Type - 'MISC EXPENSES' Not found, Item Code not found
+[18-Jun-2015 02:15:38 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:39 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:39 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:39 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:39 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :4177
+
+[22-Jun-2015 01:34:08 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:01:59 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:06:16 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:07:25 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:10:34 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:22:40 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:24:12 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:40:57 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[22-Jun-2015 02:46:36 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 12:30:11 AM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 12:31:09 AM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 02:37:35 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 02:49:18 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 02:58:47 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 04:00:42 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:01:28 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 04:14:26 PM] Document total should be greater then
+[29-Jun-2015 04:14:28 PM] Document total should be greater then
+[29-Jun-2015 04:14:28 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 04:33:30 PM] Document total should be greater then
+[29-Jun-2015 04:33:32 PM] Document total should be greater then
+[29-Jun-2015 04:33:32 PM] Purchase Order creation sucssfully : PO Number from file is :4177
+
+[29-Jun-2015 04:37:46 PM] Document total should be greater then
+[29-Jun-2015 04:37:47 PM] Document total should be greater then
+[29-Jun-2015 04:37:47 PM] Purchase Order creation sucssfully : PO Number from file is :4177

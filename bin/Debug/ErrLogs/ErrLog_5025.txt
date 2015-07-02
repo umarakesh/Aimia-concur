@@ -1,0 +1,10 @@
+
+[18-Jun-2015 02:14:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:44 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:14:44 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:14:44 PM] Purchase Order creation failed. Error : Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5025
+
+[18-Jun-2015 02:15:46 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:46 PM] Expense Type - 'TAXIS' Not found, Item Code not found
+[18-Jun-2015 02:15:46 PM] Expense Type - 'OFF SITE MEETINGS' Not found, Item Code not found
+[18-Jun-2015 02:15:46 PM] Purchase Order creation failed. Error : 10000100 - Item number is missing; specify an item number  [POR1.ItemCode][line: 1] PO Number from file is :5025

@@ -1,0 +1,36 @@
+
+[22-Jun-2015 01:34:40 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[22-Jun-2015 02:02:52 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[22-Jun-2015 02:06:17 PM] Object reference not set to an instance of an object.
+
+[22-Jun-2015 02:08:21 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[22-Jun-2015 02:23:08 PM] 'Y' is not a valid value for property 'U_Concur'. The valid values are: 'Yes' - 'Yes',  'No' - 'No'
+
+[22-Jun-2015 02:25:06 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[22-Jun-2015 02:41:52 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[22-Jun-2015 02:47:30 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 12:30:59 AM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 12:31:57 AM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 02:38:08 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 02:49:53 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 02:59:20 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 04:00:48 PM] Object reference not set to an instance of an object.
+
+[29-Jun-2015 04:02:00 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 04:15:01 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 04:34:05 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
+
+[29-Jun-2015 04:38:20 PM] Purchase Order creation failed. Error : 10000100 - Document total value must be zero or greater than zero PO Number from file is :7022
